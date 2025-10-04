@@ -1,2 +1,2 @@
 # first-repository
-this is start of our project journey
+this is start of our project journey.
